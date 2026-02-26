@@ -1,0 +1,8 @@
+file_format: "1"
+id: AFF314KEEB
+name: AFF314KEEB
+type: shield
+url: https://github.com/brickbots/chocV
+requires: [pro_micro]
+features:
+  - keys
