@@ -15,6 +15,6 @@ If you want to build your own AFF314KEEB you should start to download the [Gerbe
 
 You can find the rest of the parts in the [BOM](BOM.csv).
 
-Once you have sourced all the parts you have to follow the [build guide](build_guide.md).
+Once you have sourced all the parts you have to follow the [build guide](BUILDGUIDE.md).
 
 
