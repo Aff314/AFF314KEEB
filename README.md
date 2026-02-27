@@ -17,4 +17,4 @@ You can find the rest of the parts in the [BOM](BOM.csv).
 
 Once you have sourced all the parts you have to follow the [build guide](BUILDGUIDE.md).
 
-
+![PCB](Pics/PCB.png)
