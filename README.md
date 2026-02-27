@@ -1,8 +1,6 @@
 # AFF314KEEB
 A wireless 36-key low profile non split ergo keyboard.
 
-WIP
-
 I started to make this project because I really like using those 36-key boards and I've even built two and a handwired board which I designed myself, but never somthing this well thought out with a pcb and everything. I'm really intersted in those kinds of projects and really like the ones others made but I never did one on my own. 
 
 I if you ever want to rebulid or modify the board feel free to do that, but you should probably wait until I've actually tested if every thing works.
