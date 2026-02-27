@@ -5,6 +5,12 @@ I started to make this project because I really like using those 36-key boards a
 
 I if you ever want to rebulid or modify the board feel free to do that, but you should probably wait until I've actually tested if every thing works.
 
+I want to thank [Joe Scotto](https://github.com/joe-scotto) for the KiCad footprints and symbols and for the great tutorials on designing a keyboard case and on ZMK.
+
+Additionally I want to thank [GEIST](https://github.com/GEIGEIGEIST) for the Kicad footprints.
+
+And lastly I want to thank [Kumamuk](https://github.com/kumamuk-git) for the CKW12 which made having a roller encoder possible since the EVQWGD001 is way too expensive.
+
 ![AFF314KEEB_front](Pics/AFF314KEEB_front.png)
 ![AFF314KEEB_back](Pics/AFF314KEEB_back.png)
 
