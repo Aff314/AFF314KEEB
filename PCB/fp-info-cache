@@ -1,4 +1,4 @@
-27285462996423675
+27283692579955197
 AFFElib
 BatteryPad
 
@@ -48,6 +48,13 @@ MSK12C02
 0
 5
 4
+AFFElib
+Nice_Nano_V2
+
+
+0
+27
+27
 AFFElib
 Nice_Nano_V2_Flipped
 
@@ -153,20 +160,6 @@ my_mount_hole_M2_pad
 0
 1
 1
-AFFElib
-xiao-ble-smd-cutout
-
-
-0
-20
-20
-AFFElib
-xiao-ble-tht
-
-
-0
-20
-20
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
