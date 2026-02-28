@@ -38,11 +38,13 @@ Since I'm from Germany the prices were in EUR and I converted them to USD. There
 | Kailh Choc V1 Switch | 36 | 34.24 | https://de.aliexpress.com/item/1005008701630340.html |
 | 1N4148W SOD123 | 37 | 1.64 | https://de.aliexpress.com/item/1005006123061230.html |
 | IC-Sockets | 2 | 1.76 | https://de.aliexpress.com/item/1005007476809536.html |
+| 3.7 V 301230 | 1 | 6.83 | https://ampul.eu/de/batterie/5763-li-polymer-akku-110mah-37v-301230-ph2-2pin |
 | SKHLLCA010 | 1 | 0.71 | https://keeb.supply/products/alps-reset-button?variant=e834d428-bed6-4fb3-b94a-90e8f8b87d9b |
 | MillMax Pins 3320-0-00-15-00-00-03-0 (optional) | 24 | 3.78 | https://keeb.supply/products/millmax-pins?variant=29bd2804-2a61-4fea-bfe3-f96557a35bd5 |
 | PCB | 1 | 14.31 | https://github.com/Aff314/AFF314KEEB/blob/main/PCB/Gerber.zip |
 | Any Keycaps for Choc V1 | 36 |  | https://github.com/braindefender/KLP-Lame-Keycaps/tree/master/STEP/Choc%20Stem%20%2B%20Choc%20Size |
 | 3D Printed Case | 1 |  | https://github.com/Aff314/AFF314KEEB/tree/main/Case |
+| Heatseat insert M2x3x3.5 | 8 | 2.54 | https://de.aliexpress.com/item/1005010362011631.html |
 
 ### Parts for the CKW12
 
