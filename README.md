@@ -3,9 +3,7 @@ A wireless 36-key low profile non split ergo keyboard.
 
 ![AFF314KEEB_front](Pics/AFF314KEEB_case.png)
 
-I started to make this project because I really like using those 36-key boards and I've even built two and a handwired board which I designed myself, but never somthing this well thought out with a pcb and everything. I'm really intersted in those kinds of projects and really like the ones others made but I never did one on my own. 
-
-I if you ever want to rebulid or modify the board feel free to do that, but you should probably wait until I've actually tested if every thing works.
+I started to make this project because I really like using 36-key boards and I've even built two and a handwired board which I designed myself, but never somthing with a PCB. I'm really intersted in those kinds of projects and really like the ones others made but I've never really did one of my own. In the process of designing the board I've learned a lot on how to use KiCad and for the first time I actually documented what I was doing.
 
 I want to thank [Joe Scotto](https://github.com/joe-scotto) for the KiCad footprints and symbols and for the great tutorials on designing a keyboard case and on ZMK.
 
