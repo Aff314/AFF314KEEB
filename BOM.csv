@@ -9,7 +9,8 @@ MillMax Pins 3320-0-00-15-00-00-03-0 (optional),24,3.78,https://keeb.supply/prod
 PCB,1,14.31,https://github.com/Aff314/AFF314KEEB/blob/main/PCB/Gerber.zip
 Any Keycaps for Choc V1,36,,https://github.com/braindefender/KLP-Lame-Keycaps/tree/master/STEP/Choc%20Stem%20%2B%20Choc%20Size
 3D Printed Case,1,,https://github.com/Aff314/AFF314KEEB/tree/main/Case
-Heatseat insert M2x3x3.5,8,2.54,https://de.aliexpress.com/item/1005010362011631.html 
+Heatseat insert M2x3x3.5,8,2.54,https://de.aliexpress.com/item/1005010362011631.html
+3.7 V 301230,1,6.26,https://de.aliexpress.com/item/32232030132.html
 Parts for the CKW12,,,
 SMD 3x6x2.5MM Tactile Button,1,1.1,https://de.aliexpress.com/item/1005008818216326.html
 EC05E1220202,1,31.12,https://de.aliexpress.com/item/1005007146553579.html
@@ -17,4 +18,3 @@ PCB,1,2.4,https://github.com/kumamuk-git/CKW12/tree/main/pcb/top
 3D Printed Housing,1,,https://github.com/kumamuk-git/CKW12/blob/main/3dmodel/ckw12_housing.stp
 3D Printed Stem,1,,https://github.com/kumamuk-git/CKW12/blob/main/3dmodel/ckw12_stem.stl
 3D Printed Wheel,1,,https://github.com/kumamuk-git/CKW12/blob/main/3dmodel/ckw12_wheel_fix.stp
-
