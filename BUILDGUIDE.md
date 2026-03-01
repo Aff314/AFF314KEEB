@@ -1,5 +1,7 @@
 # Bulid guide 🚧 WIP 🚧
 
+If you want to build the board feel free to do that, but you should probably wait until I've actually tested if every thing works. Then there should also be a buildguide available. 
+
 ## Building the board
 
 🚧 Wip 🚧
@@ -12,4 +14,5 @@ First you have to download the [uf2 file](Firmware/AFF314KEEB-nice_nano_v2-zmk.u
 
 In the next step you have to put your MCU in bootloder mode by connecting it to your pc and double pressing the reset-button.
 Once it shows up as a drive
+
 
