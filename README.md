@@ -1,7 +1,7 @@
 # AFF314KEEB
 A wireless 36-key low profile non split ergo keyboard.
 
-![AFF314KEEB_front](Pics/AFF314KEEB_case.png)
+![AFF314KEEB_front](Pics/AFF314KEEB_black.png)
 
 I started to make this project because I really like using 36-key boards and I've even built two and a handwired board which I designed myself, but never somthing with a PCB. I'm really intersted in those kinds of projects and really like the ones others made but I've never really did one of my own. In the process of designing the board I've learned a lot on how to use KiCad and for the first time I actually documented what I was doing.
 
@@ -11,7 +11,7 @@ Additionally I want to thank [GEIST](https://github.com/GEIGEIGEIST) for the Kic
 
 And lastly I want to thank [Kumamuk](https://github.com/kumamuk-git) for the CKW12 which made having a roller encoder possible since the EVQWGD001 is way too expensive.
 
-![AFF314KEEB_front](Pics/AFF314KEEB_front.png)
+![AFF314KEEB_front](Pics/AFF314KEEB_white.png)
 ![AFF314KEEB_back](Pics/AFF314KEEB_back.png)
 
 ## Instructions on buildung your own
