@@ -33,7 +33,7 @@ Since I'm from Germany the prices were in EUR and I converted them to USD. There
 |------|------|--------------------|------|
 | NRF52840 NineNano v2 Clone | 1 | 3.77 | https://de.aliexpress.com/item/1005006271779544.html |
 | Kailh Choc Hot-Swap Socket | 36 | 6.25 | https://de.aliexpress.com/item/1005008928238101.html |
-| Kailh Choc V1 Switch | 36 | 34.24 | https://de.aliexpress.com/item/1005008701630340.html |
+| Kailh Choc V1 Switch | 36 | 34.24 | https://de.aliexpress.com/item/1005005723938995.html |
 | 1N4148W SOD123 | 37 | 1.64 | https://de.aliexpress.com/item/1005006123061230.html |
 | IC-Sockets | 2 | 1.76 | https://de.aliexpress.com/item/1005007476809536.html |
 | 3.7 V 301230 | 1 | 6.83 | https://ampul.eu/de/batterie/5763-li-polymer-akku-110mah-37v-301230-ph2-2pin |
