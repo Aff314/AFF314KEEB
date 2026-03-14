@@ -43,6 +43,7 @@ Since I'm from Germany the prices were in EUR and I converted them to USD. There
 | Any Keycaps for Choc V1 | 36 |  | https://github.com/braindefender/KLP-Lame-Keycaps/tree/master/STEP/Choc%20Stem%20%2B%20Choc%20Size |
 | 3D Printed Case | 1 |  | https://github.com/Aff314/AFF314KEEB/tree/main/Case |
 | Heatseat insert M2x3x3.5 | 8 | 2.54 | https://de.aliexpress.com/item/1005010362011631.html |
+| M2 screws | 8 | 5.15 | https://de.aliexpress.com/item/1005007278965396.html |
 
 ### Parts for the CKW12
 
