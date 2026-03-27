@@ -50,7 +50,7 @@ Since I'm from Germany the prices were in EUR and I converted them to USD. There
 | Item | Qty. | Total Price in USD | Link |
 |------|------|--------------------|------|
 | SMD 3x6x2.5MM Tactile Button | 1 | 1.10 | https://de.aliexpress.com/item/1005008818216326.html |
-| EC05E1220202 | 1 | 31.12 | https://de.aliexpress.com/item/1005007146553579.html |
+| EC05E1220202 | 1 | 1.8 | https://de.aliexpress.com/item/1005007146553579.html |
 | PCB | 1 | 2.40 | https://github.com/kumamuk-git/CKW12/tree/main/pcb/top |
 | 3D Printed Housing | 1 |  | https://github.com/kumamuk-git/CKW12/blob/main/3dmodel/ckw12_housing.stp |
 | 3D Printed Stem | 1 |  | https://github.com/kumamuk-git/CKW12/blob/main/3dmodel/ckw12_stem.stl |
