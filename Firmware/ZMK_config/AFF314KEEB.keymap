@@ -28,10 +28,8 @@
 &msc {
     acceleration-exponent=<1>;
 };
-
+ 
 / {
-    sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
-
 	behaviors {
         hm: homerow_mods {
             compatible = "zmk,behavior-hold-tap";
@@ -72,9 +70,10 @@
 //├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤ ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
     &mt LSHIFT Z  &kp X         &kp C         &kp V         &kp B           &kp N         &kp M         &kp COMMA     &kp DOT       &mt RSHIFT SLASH     
 //╰─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤ ├─────────────┼─────────────┼─────────────┼───────────────────────────╯
-                                &kp LGUI      &kp LCTRL     &lt 3 SPACE     &lt 2 BSPC    &lt 4 RETURN  &kp LALT      &none                
+                                &kp LGUI      &kp LCTRL     &lt 3 SPACE     &lt 2 BSPC    &lt 4 RETURN  &kp LALT      &kp Q            
 //                            ╰─────────────┴─────────────┴─────────────╯ ╰─────────────┴─────────────┴─────────────╯                            
             >;
+            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
         };
 
         bt_layer {
@@ -102,6 +101,7 @@
                                 &kp LGUI      &kp LCTRL     &kp SPACE       &none      &kp RET       &kp LALT         &none               
 //                            ╰─────────────┴─────────────┴─────────────╯ ╰─────────────┴─────────────┴─────────────╯                            
             >;
+            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
         };    
         meta {
 			bindings = <
