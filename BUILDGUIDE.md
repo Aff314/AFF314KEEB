@@ -1,7 +1,5 @@
 # Bulid guide
 
-If you want to build the board feel free to do that, but you should probably wait until I've actually tested if every thing works. Then there should also be a buildguide available. 
-
 ## Building the board
 
 ### Soldering the diodes
