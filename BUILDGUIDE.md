@@ -1,20 +1,14 @@
-# Bulid guide 🚧 WIP 🚧
-
-If you want to build the board feel free to do that, but you should probably wait until I've actually tested if every thing works. Then there should also be a buildguide available. 
+# Bulid guide
 
 ## Building the board
 
-🚧 Wip 🚧
-
-Is going to be posted once the parts arrive.
-But you basically just have to solder everything on.
-
-
 ### Soldering the diodes
 The diodes are really small and can be a bit tricky to solder but it's actually not that difficult.
-The most important thing is that you solder them on in the right direction. You can find a line on the PCB and on the diode. They have to match. I recommend you to use flux for the diodes since it makes it alot easier.
+The most important thing is that you solder them on in the right direction. You can find a line on the PCB and on the diode. They have to match.
 
-As far as soldering goes you first have to put a bit of solder on one pad and place the correct diode leg on there, while heating it up with your soldering iron. Then you have to just solder on the other leg and if you need tou you can now improve the solder joint of the first leg.
+
+As far as soldering goes you first have to put a bit of solder on one pad and place the correct diode leg on there, while heating it up with your soldering iron. 
+Then you have to just solder on the other leg and if you need to you can now improve the solder joint of the first leg.
 
 ### Soldering the hotswap sockets
 Same as the diodes you have to solder on one side first and then the other.
@@ -40,7 +34,7 @@ You need to place the switch in it's position and first solder on the big pads a
 
 
 ### Soldering the battery
-If your battery has a connector you have to cut it off. The wires have to ba short enough so the battery fits properly under MCU.
+If your battery has a connector you have to cut it off. The wires have to be short enough so the battery fits properly under MCU.
 
 Then you have to place the battery under the MCU. Turn off the power switch and solder the red wire to the + pad and the black wire to the - pad.
 
